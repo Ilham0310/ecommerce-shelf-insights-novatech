@@ -42,7 +42,7 @@
 * Join actual price elasticity and share-of-voice to price decisions so the undercut score reflects real revenue impact, not just the gap size; tie in event calendars like Prime days.
 * Expand content checks to images, bullets, and A+ flags when those fields are available, and link content refresh tasks to ad tests for faster recovery on low-conversion SKUs.
 
-###Prompts
+### Prompts
 
 Prompt 1 — Initial build
 I need a single Python script called analyze_shelf.py that:
