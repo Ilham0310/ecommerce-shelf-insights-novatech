@@ -1,0 +1,4 @@
+sku,platform,our_price,competitor_price,price_gap,type
+B08M3PLK7Y,amazon,89.99,87.49,2.5,price_undercut
+NT-EARB-001,walmart,134.99,128.99,6.0,price_undercut
+NT-CHRG-003,walmart,32.99,28.99,4.0,price_undercut

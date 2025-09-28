@@ -1,0 +1,194 @@
+{
+  "extraction_timestamp": "2025-09-26T14:30:00Z",
+  "data_quality_score": 0.82,
+  "platforms": {
+    "amazon": {
+      "last_full_sync": "2025-09-25T00:00:00Z",
+      "products": [
+        {
+          "asin": "B09K4RT5MN",
+          "title": "NovaTech Wireless Earbuds X1 - Active Noise Cancelling",
+          "current_price": 142.49,
+          "list_price": 149.99,
+          "seller": "NovaTech Official",
+          "availability": "in_stock",
+          "estimated_stock": 450,
+          "buy_box_price": 142.49,
+          "buy_box_winner": "NovaTech Official",
+          "total_sellers": 3,
+          "review_count": 287,
+          "avg_rating": 4.2,
+          "best_seller_rank": {"category": "Electronics", "rank": 1847},
+          "content_quality_flags": ["missing_enhanced_content", "incomplete_bullets"]
+        },
+        {
+          "asin": "B09K4RT6NP",
+          "title": "NovaTech X1 Earbuds (Black)",
+          "current_price": 138.99,
+          "list_price": null,
+          "seller": "TechDeals Prime",
+          "availability": "in_stock",
+          "estimated_stock": 85,
+          "buy_box_price": 138.99,
+          "buy_box_winner": "TechDeals Prime",
+          "total_sellers": 5,
+          "review_count": 43,
+          "avg_rating": 4.1,
+          "best_seller_rank": {"category": "Electronics", "rank": 3291}
+        },
+        {
+          "asin": "B08M3PLK7Y",
+          "title": "NovaTech Portable Bluetooth Speaker Z2",
+          "current_price": 89.99,
+          "list_price": 89.99,
+          "seller": "NovaTech Official",
+          "availability": "low_stock",
+          "estimated_stock": 12,
+          "buy_box_price": 87.49,
+          "buy_box_winner": "FastShip Electronics",
+          "total_sellers": 8,
+          "review_count": 512,
+          "avg_rating": 4.5,
+          "best_seller_rank": {"category": "Electronics", "rank": 892}
+        },
+        {
+          "asin": "B0B7NK4L9M",
+          "title": "65W USB-C Fast Charger by NovaTech",
+          "current_price": 29.99,
+          "list_price": 39.99,
+          "seller": "NovaTech Official",
+          "availability": "in_stock",
+          "estimated_stock": null,
+          "buy_box_price": 29.99,
+          "buy_box_winner": "NovaTech Official",
+          "total_sellers": 2,
+          "review_count": 89,
+          "avg_rating": 3.8,
+          "best_seller_rank": {"category": "Electronics", "rank": 4521}
+        },
+        {
+          "asin": "B09Q8RT3KL",
+          "title": "NovaTech SmartWatch S5 Fitness Tracker",
+          "current_price": 279.00,
+          "list_price": 299.99,
+          "seller": "NovaTech Official",
+          "availability": "in_stock",
+          "estimated_stock": 230,
+          "buy_box_price": 279.00,
+          "buy_box_winner": "NovaTech Official",
+          "total_sellers": 4,
+          "review_count": 156,
+          "avg_rating": 3.9,
+          "best_seller_rank": {"category": "Sports & Outdoors", "rank": 2103}
+        },
+        {
+          "asin": "B0C1M5RT8K",
+          "title": "NovaTech 10.5\" Tablet P6 (128GB)",
+          "current_price": 549.99,
+          "list_price": 599.99,
+          "seller": "NovaTech Official",
+          "availability": "temporarily_unavailable",
+          "estimated_stock": 0,
+          "review_count": 18,
+          "avg_rating": 4.0,
+          "content_quality_flags": ["no_a_plus_content", "generic_images"]
+        }
+      ]
+    },
+    "walmart": {
+      "last_full_sync": "2025-09-24T12:00:00Z",
+      "products": [
+        {
+          "walmart_id": "NT-EARB-001",
+          "product_name": "NovaTech Wireless Earbuds with Noise Cancelling",
+          "online_price": 134.99,
+          "shelf_price": 149.99,
+          "vendor": "NOVATECH INC",
+          "stock_status": "available",
+          "inventory_level": "moderate",
+          "ratings_count": 92,
+          "rating_score": 4.0,
+          "competing_offers": 2,
+          "lowest_competitor_price": 128.99
+        },
+        {
+          "walmart_id": "NT-SPKR-002",
+          "product_name": "Bluetooth Speaker by NovaTech",
+          "online_price": 84.99,
+          "shelf_price": 89.99,
+          "vendor": "NOVATECH INC",
+          "stock_status": "limited",
+          "inventory_level": "low",
+          "ratings_count": 203,
+          "rating_score": 4.4
+        },
+        {
+          "walmart_id": "NT-CHRG-003",
+          "product_name": "NovaTech 65W Fast Charger USB-C",
+          "online_price": 32.99,
+          "shelf_price": 39.99,
+          "vendor": "3P_SELLER_TECHMAX",
+          "stock_status": "available",
+          "ratings_count": 41,
+          "rating_score": 3.5,
+          "competing_offers": 5,
+          "lowest_competitor_price": 28.99,
+          "price_match_flag": true
+        },
+        {
+          "walmart_id": "NT-CABL-004",
+          "product_name": "USB-C to Lightning Cable 6ft - NovaTech",
+          "online_price": 22.99,
+          "shelf_price": 24.99,
+          "vendor": "NOVATECH INC",
+          "stock_status": "available",
+          "inventory_level": "high",
+          "ratings_count": 178,
+          "rating_score": 4.3
+        },
+        {
+          "walmart_id": "NT-WTCH-005",
+          "product_name": "NovaTech S5 Smart Fitness Watch",
+          "online_price": 259.99,
+          "shelf_price": 299.99,
+          "vendor": "NOVATECH INC",
+          "stock_status": "available",
+          "ratings_count": 67,
+          "rating_score": 3.7,
+          "promotion_flag": "rollback"
+        }
+      ]
+    },
+    "target": {
+      "last_full_sync": "2025-09-26T08:00:00Z",
+      "incomplete_data": true,
+      "products": [
+        {
+          "tcin": "86754201",
+          "display_name": "NovaTech X1 Wireless Earbuds",
+          "web_price": 149.99,
+          "store_price": 149.99,
+          "sold_by": "NovaTech",
+          "fulfillment": "ship_from_store",
+          "availability_status": "in_stock_online_and_stores"
+        },
+        {
+          "tcin": "86754202",
+          "display_name": "NovaTech Portable Speaker",
+          "web_price": 89.99,
+          "store_price": 84.99,
+          "sold_by": "NovaTech",
+          "availability_status": "limited_availability"
+        },
+        {
+          "tcin": "86754205",
+          "display_name": "NovaTech Smart Watch S5",
+          "web_price": 289.99,
+          "sold_by": "NovaTech",
+          "availability_status": "online_only",
+          "guest_ratings": {"count": 31, "average": 3.8}
+        }
+      ]
+    }
+  }
+}

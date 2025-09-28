@@ -1,0 +1,11 @@
+date,sku,retailer,units_shipped,units_returned,current_fba_inventory,velocity_score
+2025-09-20,NT-EARBUD-X1,Amazon,500,32,468,3.2
+2025-09-20,NT-EARBUD-X1-BLK,Amazon,0,8,85,0.8
+2025-09-20,NT-SPEAKER-Z2,Amazon,200,15,12,5.1
+2025-09-20,NT-CHARGER-Q3,Amazon,300,22,278,2.1
+2025-09-20,NT-WATCH-S5,Amazon,400,18,230,2.8
+2025-09-20,NT-TABLET-P6,Amazon,100,3,0,null
+2025-09-21,NT-EARBUD-X1,Walmart,300,null,null,2.9
+2025-09-21,NT-SPEAKER-Z2,Walmart,150,null,null,4.3
+2025-09-21,NT-CHARGER-Q3,Walmart,0,null,null,1.8
+2025-09-22,NT-WATCH-S5,Walmart,250,null,null,2.5

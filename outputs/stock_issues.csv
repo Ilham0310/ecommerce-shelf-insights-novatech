@@ -1,0 +1,4 @@
+date,sku,retailer,units_shipped,units_returned,current_fba_inventory,velocity_score,days_to_stockout,type
+2025-09-21,NT-EARBUD-X1,Walmart,300,,0.0,2.9,0.0,stockout
+2025-09-21,NT-SPEAKER-Z2,Walmart,150,,0.0,4.3,0.0,stockout
+2025-09-22,NT-WATCH-S5,Walmart,250,,0.0,2.5,0.0,stockout

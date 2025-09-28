@@ -1,0 +1,38 @@
+{
+  "report_date": "2025-09-25",
+  "market_context": {
+    "category_growth_rate": {
+      "audio": 0.12,
+      "wearables": 0.18,
+      "computing": -0.03,
+      "accessories": 0.08
+    },
+    "seasonal_factor": 1.15,
+    "promotional_calendar": {
+      "upcoming": ["Prime Big Deal Days", "Walmart+ Week"],
+      "recent": ["Labor Day Sales"]
+    }
+  },
+  "competitor_activity": [
+    {
+      "competitor": "TechPro",
+      "competing_products": ["earbuds", "smartwatch"],
+      "price_changes_last_30d": -0.08,
+      "new_launches": ["TechPro Elite Buds"],
+      "estimated_market_share": 0.22
+    },
+    {
+      "competitor": "AudioMax",
+      "competing_products": ["earbuds", "speakers"],
+      "price_changes_last_30d": -0.12,
+      "promotional_intensity": "high",
+      "estimated_market_share": 0.15
+    }
+  ],
+  "market_signals": {
+    "price_erosion_rate": 0.03,
+    "review_velocity_trend": "declining",
+    "search_volume_index": 0.87,
+    "social_sentiment": 0.68
+  }
+}
